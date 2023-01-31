@@ -25,3 +25,6 @@ function reorder(aString){
 
 //Console log the reorder() function to print the reordered string.
 console.log(reorder("hA2p4Py"));
+
+
+let x = "kristian er sej"
